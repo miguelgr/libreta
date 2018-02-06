@@ -2,6 +2,9 @@
 #+AUTHOR: Miguel Garcia Rodriguez
 
 ** Alfa Mist
+** The Sonic Dawn
+** Portico Quartet
+** Mammal Hands
 ** Theon Cross
 ** Nubya Garcia
 ** Shabaka Hutchings
@@ -13,3 +16,7 @@
 ** HardKandy
 ** Clutchy Hopkins
 ** Jonathan Wilson
+** Carpet
+** Breakestra
+** Parquet Courts
+** Takuya Kuroda
